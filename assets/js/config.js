@@ -14,7 +14,7 @@ const BADGES = [
 ];
 
 const USER_ID = "986307077611847711"; // Your Discord Id Here | You need to join Lanyard Discord for it to work! [https://discord.gg/z2xW3zxYdt]
-const BACKGROUND_IMAGE = "https://mail.google.com/mail/u/0/?ui=2&ik=30b02d836d&attid=0.1&permmsgid=msg-a:r-1361287942786520550&th=18e3e714561fc4d4&view=fimg&realattid=f_ltrmjmkb0&disp=thd&attbid=ANGjdJ8pUgnZddvE7CtzPxsHqN8c5IGnpah6cFRIJWK6y8lLF6HTU7PcOrWODZYuIyzf9EUWjs69mh9AFwOXJf5AalW8dMrSjqvMmjylIFcGWfuTsmb39eQWOfYHwmU&ats=2524608000000&sz=w1366-h644";
+const BACKGROUND_IMAGE = "";
   dnd: {
     name: "Do not disturb", // Discord Status
     color: "#ed4245",
