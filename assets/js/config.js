@@ -13,7 +13,7 @@ const BADGES = [
   },
   {
     name: "Active Developer",
-    image: "verified_bot_developer.svg",
+    image: "server_owner.svg",
   },
 ];
 
